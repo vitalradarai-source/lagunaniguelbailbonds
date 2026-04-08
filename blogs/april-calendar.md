@@ -20,7 +20,7 @@
 
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
-| 2026-04-08 | Wed | what-happens-after-arrest-laguna-niguel | what happens after an arrest in Laguna Niguel | Bail Process | ⬜ |
+| 2026-04-08 | Wed | what-happens-after-arrest-laguna-niguel | what happens after an arrest in Laguna Niguel | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-laguna-niguel | how do bail bonds work in Laguna Niguel | Bail Bonds 101 | ⬜ |
 | 2026-04-10 | Fri | how-much-is-bail-laguna-niguel | how much is bail in Orange County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-laguna-niguel | how to get someone out of jail in Laguna Niguel | Release Process | ⬜ |
